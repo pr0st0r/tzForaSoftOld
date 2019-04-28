@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyAlbum</string>
+    <string name="search_artist">Enter artist</string>
+    <string name="error_search">Failed to load information</string>
+    <string name="nothing_found">Nothing found</string>
+    <string name="no_tracks_found">No_tracks_found</string>
+    <string name="connection_error">Connection error</string>
+    <string name="cover">Cover</string>
+    <string name="tracks">Tracks</string>
+    <string name="duration">Duration</string>
+    <string name="genre">Genre</string>
+    <string name="back">Back</string>
+
+    <!-- alert -->
+    <string name="alert_title">Welcome</string>
+    <string name="alert_title_error">Error</string>
+    <string name="alert_message">Enter the name of the artist you want to search for albums by</string>
+    <string name="alert_message_error">Check your Internet connection</string>
+</resources>

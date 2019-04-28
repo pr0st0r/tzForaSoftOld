@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Мой альбом</string>
+    <string name="search_artist">Введите артиста</string>
+    <string name="error_search">Не удалось загрузить информацию</string>
+    <string name="nothing_found">Ничего не найдено</string>
+    <string name="no_tracks_found">Tреки не найдены</string>
+    <string name="connection_error">Ошибка подключения</string>
+    <string name="cover">Обложка</string>
+    <string name="tracks">Треки</string>
+    <string name="duration">Продолжительность</string>
+    <string name="genre">Жанр</string>
+    <string name="back">Назад</string>
+
+    <!-- alert -->
+    <string name="alert_title">Добро пожаловать</string>
+    <string name="alert_title_error">Ошибка</string>
+    <string name="alert_message">Введите имя исполнителя, по которому хотите найти альбомы</string>
+    <string name="alert_message_error">Проверьте подключение к интернету</string>
+</resources>
